@@ -1,4 +1,4 @@
-package git.CashierProject;
+package;
 
 import java.util.Scanner;
 import java.text.SimpleDateFormat;
